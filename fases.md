@@ -1,0 +1,6 @@
+# fases
+
+- [[fase 1]]
+- [[fase 2]]
+- [[fase 3]]
+- [[fase 4]]
