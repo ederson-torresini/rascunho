@@ -2,4 +2,4 @@
 
 Ensinar [[redes de computadores]] e [[programação]].
 
-Pensar em [[metodologias]].
+Pensar em [[metodologias]]. Como melhorar o [[aprendizado]].
