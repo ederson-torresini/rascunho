@@ -1,3 +1,3 @@
 # aprendizado
 
-Ver técnicas como [[PKM]].
+Ver técnicas como [[PIM]].

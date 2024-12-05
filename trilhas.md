@@ -1,3 +1,3 @@
 # trilhas
 
-Caminhos feitos pelo aprendizes na plataforma de [[ensino]].
+Caminhos feitos pelo aprendizes na plataforma de [[ensino]]. Usa [[PIM]].
