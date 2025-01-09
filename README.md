@@ -39,11 +39,21 @@ Outra opção é um jogo de caminhos possíveis, onde o usuário escolhe o próx
 Nesse caso, ele pode ser recompensado por isso, como em um jogo de RPG.
 Por fim, pode ainda apresentar um grafo 3D, onde o usuário pode navegar pelos dados como se fosse um mapa.
 
-Aparecem, assim, dois tipos de servidor: de dados, e de armazenamento de progresso do usuário - as trilhas.
-Trilhas podem conter outras trilhas (ver conceito de playlist do Spotify).
+Aparecem, assim, três tipos de servidor:
+- Dados
+- Grafos: que podem conter outros grafos (ver conceito de playlist do Spotify e PIMs como Obsidian e outros).
+- Armazenamento de progresso do usuário - as trilhas.
+
+Será usado o termo grafo para caminho possível e trilha para caminho já navegado.
+
+É preciso, assim, uma linguagem para descrever esses grafos - e trilhas - e seus possíveis caminhos:
+- Estruturas de decisão: caminhos possíveis quando escolhas são feitas - ou exercícios são bem ou mal resolvidos.
+- Estruturas de repetição: caminhos possíveis quando um dado é relido ou aprofundado.
+(ver linguagem ink e Twine)
 
 Os dados podem ser analisados por IAs nesses servidores de progresso, ou mesmo no cliente (ver WebAssembly?).
 Podem ser desde sugestões de progresso, ou mesmo construção de novos "livros" ou "jogos" a partir dos dados e trilhas dos usuários.
+Ou seja, novos grafos possíveis.
 
 Outra opção são produtores de cursos, que podem criar seus próprios cursos (grafos) a partir dos dados.
 Logo, alguns dados são certificados como "oficiais", e outros são "comunitários".
