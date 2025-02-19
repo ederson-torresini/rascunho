@@ -13,7 +13,7 @@ O dado, em si, pode-se ter como analogia uma folha dobrada várias vezes.
 Tem na capa um identificador genérico (hash), vários idiomas possíveis.
 Pode haver o uso de IA para tradução automática, o que deve estar discriminado no idioma em questão.
 Ao desdobrar uma vez, o título e palavras-chave.
-Outra vez, uma frase de resumo (lead, ler sobre isso em Jornalismo), lembrando como a Wikipedia faz ao passar o mouse por cima de um conceito.
+Outra vez, uma frase de resumo (lide, ler sobre isso em Jornalismo), lembrando como a Wikipedia faz ao passar o mouse por cima de um conceito.
 Mais uma vez, um parágrafo de explicação.
 De novo, um texto completo.
 Por fim, referências para outros dados.
@@ -43,7 +43,7 @@ Nesse caso, ele pode ser recompensado por isso, como em um jogo de RPG.
 Por fim, pode ainda apresentar um grafo 3D, onde o usuário pode navegar pelos dados como se fosse um mapa.
 
 Aparecem, assim, três tipos de servidor:
-- Dados
+- Dados.
 - Grafos: que podem conter outros grafos (ver conceito de playlist do Spotify e PIMs como Obsidian e outros).
 - Armazenamento de progresso do usuário - as trilhas.
 
@@ -67,3 +67,6 @@ Há, assim, vários tipos de dados:
 - Exemplo: prática.
 - Curso: apresentação do professor/tutor/outro.
 - Exercício: prática avaliativa - avaliada por professor/tutor/outro ou mesmo IA.
+
+Mais informações podem ser armazenadas. O progresso do usuário pode gerar resultados, como XP e créditos em um sistema de economia.
+O sistema de economia pode ser usado para comprar cursos pagos, ou até mesmo para contratar horas de outros usuários: mentorias etc.
