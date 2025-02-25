@@ -22,10 +22,8 @@ Claro, a qualquer momento pode haver referências (âncoras) para outros dados.
 Os servidores dos dados armazenam os dados como blocos.
 Tem um índice de blocos, que podem ser acessados individualmente e por nível (definir os níveis previamente).
 Exemplo:
-- GET /dados/1/capa
-onde /dados é o tipo de informação, 1 é o identificador e capa é o nível.
-- GET /dados/1/capa/referencias
-onde são requisitados os itens capa até referência.
+- `GET /dados/1/capa`, onde `/dados` é o tipo de informação, `1` é o identificador e `capa` é o nível.
+- `GET /dados/1/capa/referencias`, onde são requisitados os itens `capa` até `referência`.
 
 Logo, o servidor pode, inclusive, sugerir os próximos dados a serem acessados:
 - O próximo nível do dados.
@@ -44,7 +42,7 @@ Por fim, pode ainda apresentar um grafo 3D, onde o usuário pode navegar pelos d
 
 Aparecem, assim, três tipos de servidor:
 - Dados.
-- Grafos: que podem conter outros grafos (ver conceito de playlist do Spotify e PIMs como Obsidian e outros).
+- Grafos: que podem conter outros grafos (ver conceito de _playlist_ do Spotify e PIMs como Obsidian e outros).
 - Armazenamento de progresso do usuário - as trilhas.
 
 Será usado o termo grafo para caminho possível e trilha para caminho já navegado.
