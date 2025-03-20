@@ -98,16 +98,16 @@ A sociedade ocidental moderna ruiu sob o seu próprio peso.
 
 Penso em teorias da conspiração para resolver a minha falta de culpados.
 Mas ainda eles não têm rosto: é mais fácil inventá-los.
-Essa mudança para o setor `1F4` não é uma conspiração.
+Essa mudança para o setor 1F4 não é uma conspiração.
 É apenas o desafogamento da velha cidade.
 O ar já está viciado de monóxido de carbono, e as bombas de ar não dão mais conta.
 
-Existe mesmo esse setor `1F4`?
+Existe mesmo esse setor 1F4?
 
 ## O Evento
 
 Um trabalho de sabotagem mata um homem-máquina.
-Tem que fugir para o novo setor `1F4`, onde, dizem, até tem carne sintética para comprar com os créditos de trabalho. 
+Tem que fugir para o novo setor 1F4, onde, dizem, até tem carne sintética para comprar com os créditos de trabalho. 
 
 Tecnicamente, uma máquina (homem-máquina) não morre.
 Então meu "acidente" com uma delas não deveria ser problema.
@@ -147,7 +147,7 @@ Não é um apenas um campo aberto.
 
 Bem, para as pessoas como eu, que nunca saíram do útero de metal, a experiência é lentamente fatal.
 
-Vejo nativos, mas não sei dizer se são almados. Ouvi-os espalhando que no setor `1F4` até tem árvores naturais. Carne sintética, e agora clones de árvores. Querem eles me atrair?
+Vejo nativos, mas não sei dizer se são almados. Ouvi-os espalhando que no setor 1F4 até tem árvores naturais. Carne sintética, e agora clones de árvores. Querem eles me atrair?
 
 Corro o mais que posso. Por horas. Até me perder no horizonte da razão.
 

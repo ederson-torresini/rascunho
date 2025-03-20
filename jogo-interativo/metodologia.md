@@ -4,9 +4,9 @@ Antes de mais nada, é preciso deixar claro: isto é um jogo. Uma saga. Uma jorn
 
 A metodologia é, pois, baseada em um jogo de longa duração, onde os construtores são também os jogadores com evolução de papel, um RPG (_role playing game_) nas 4 dimensões: altura, largura, profundidade e tempo.
 
-- [[jogo de tabuleiro]]
-- [[mapa]]
-- [[personagem]]
-- [[roteiro]]
-- [[progresso]]
-- [[avaliação]]
+- [jogo de tabuleiro](./jogo-de-tabuleiro.md)
+- [mapa](./mapa.md)
+- [personagem](./personagem.md)
+- [roteiro](./roteiro.md)
+- [progresso](./progresso.md)
+- [avaliação](./avaliação.md)
