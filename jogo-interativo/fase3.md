@@ -20,7 +20,6 @@ Trabalhadores, Sebastião Salgado
 
 Filme: Música: Tecnologia: Automatização. Interação máquina-máquina (M2M). Inteligência artificial (IA).
 
-https://serenatadeamor.org/ para controle de gastos/reembolsos.
 
 ## Produção
 

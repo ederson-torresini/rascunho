@@ -15,9 +15,9 @@ Diversas fontes para entender o mundo ao nosso redor.
 * Pacha Mama
 * Gaia
 
-No século XIX, livros como \textit{Nature}\cite{emerson:nature} e \textit{Walden}\cite{thoreau:walden}. No século XX, Leonardo Boff fala em \textit{Ecologia: Grito da Terra, Grito dos Pobres}\cite{boff:ecologia} e \textit{Sustentabilidade: O que é - O que não é}\cite{boff:sustentabilidade}.
+No século XIX, livros como [Nature](https://www.gutenberg.org/ebooks/29433) e [Walden](https://www.gutenberg.org/ebooks/205). No século XX, Leonardo Boff fala em \textit{Ecologia: Grito da Terra, Grito dos Pobres}\cite{boff:ecologia} e \textit{Sustentabilidade: O que é - O que não é}\cite{boff:sustentabilidade}.
 
-No cinema há documentários como os baseados em livros como \textit{Na Natureza Selvagem}\cite{penn:nanaturezaselvagem}.
+No cinema há documentários como os baseados em livros como [Na Natureza Selvagem](https://www.imdb.com/pt/title/tt0758758/).
 
 https://worldview.earthdata.nasa.gov/
 

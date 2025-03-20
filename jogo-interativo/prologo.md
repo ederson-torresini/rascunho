@@ -6,9 +6,9 @@ No início era o Caos. [Eu poderia viver preso dentro de uma casca de noz e me v
 
 E começou a entropia - a primeira e [última pergunta](https://archive.org/details/Science\_Fiction\_Quarterly\_New\_Series\_v04n05\_1956-11\_slpn/page/n5/mode/2up?view=theater).
 
-\textit{2001, Uma Odisseia no Espaço}\cite{clarke:2001}\cite{kubrick:2001}.
+2001, Uma Odisseia no Espaço: livro e filme
 
-Para ir lendo com calma, em paralelo\textit{A Trilogia Fundação}\cite{asimov:fundacao}
+Para ir lendo com calma, em paralelo: A Trilogia Fundação
 
 Desde o início dos tempos estamos entrelaçados com o sobrenatural, o metafísico, o arquétipo\cite{jung:homem}.
 
@@ -16,10 +16,10 @@ Filme:
 
 Música:
 
-Do the Evolution, Pearl Jam
-
-https://www.youtube.com/watch?v=aDaOgu2CQtI
+- [Do the Evolution, Pearl Jam](https://www.youtube.com/watch?v=aDaOgu2CQtI)
 
 A Última Pergunta, Isaac Asimov
 
-\section{Produção} Registro da história da cidade.
+## Produção
+
+Registro da história da cidade.

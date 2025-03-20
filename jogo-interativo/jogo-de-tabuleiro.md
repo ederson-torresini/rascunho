@@ -8,4 +8,4 @@ Controle por vários painéis/telas de toque/interfaces de bate-papo para contro
 
 Uso de plataformas de eletrônica, mecânica e programação para incentivar STEM: Micro:bit, Arduino e Raspberry Pi. Linguagens: bloco, C/C++ e Python.
 
-\textit{Open hardware}, padrões e protocolos abertos. Sugestões: HTTP/2, WebSocket, MQTT.
+Open hardware, padrões e protocolos abertos. Sugestões: HTTP/2, WebSocket, MQTT.

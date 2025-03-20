@@ -68,3 +68,9 @@ Há, assim, vários tipos de dados:
 
 Mais informações podem ser armazenadas. O progresso do usuário pode gerar resultados, como XP e créditos em um sistema de economia.
 O sistema de economia pode ser usado para comprar cursos pagos, ou até mesmo para contratar horas de outros usuários: mentorias etc.
+
+Exemplos de interfaces:
+
+- [Livro interativo](./livro-interativo/README.md)
+- [Jogo interativo](./jogo-interativo/README.md)
+- [Jogo com IA](./jogo-com-IA/README.md)

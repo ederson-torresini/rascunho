@@ -24,4 +24,6 @@ Jogos: Kerbal
 
 http://www.nickstath.com/fairy-tales-2019
 
-\section{Produção} \label{epilogo:producao} Entrega da história da sociedade, e a destruição completa da cidade - mandala tibetana.
+## Produção
+
+Entrega da história da sociedade, e a destruição completa da cidade - mandala tibetana.

@@ -18,4 +18,6 @@ Pequenos dispositivos com sensores e atuadores (instrumentação). Uso de gráfi
 
 Modelo político e legislação
 
-Desigualdade social eou econômica: World Wealth and Income Database: http://wid.world/ Portal Brasileiro de Dados Abertos: https://dados.gov.br Jarbas, do Serenata de Amor: https://jarbas.serenatadeamor.org/dashboard
+- [World Wealth and Income Database](http://wid.world/)
+- [Portal Brasileiro de Dados Abertos](https://dados.gov.br)
+- [Jarbas, do Serenata de Amor](https://jarbas.serenata.ai/dashboard/)
